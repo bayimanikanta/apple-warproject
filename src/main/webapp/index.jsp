@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Welcome to tomcat deploy manager-script</h2>
+<h2>Hello World! Welcome to tomcat deploy manager-script webhook</h2>
 </body>
 </html>
